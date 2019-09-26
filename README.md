@@ -3,4 +3,6 @@ Useful tools for GDUTer.
 
 ## scripts
 
-- calculate_score.py: Calculate course score for GDUT postgraduate
+script name|application
+--|--
+calculate_score.py|Calculate course score for GDUT postgraduate
