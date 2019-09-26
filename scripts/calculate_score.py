@@ -73,4 +73,4 @@ if __name__ == "__main__":
     weighted_average_score = cal_weighted_average_score(scores, credits)
 
     print("\nYour weighted average score is: %.2f" % weighted_average_score)
-    print("Your course score point is: %.2f" % (weighted_average_score * 0.4))
+    print("Your course score point is: %.3f" % (weighted_average_score * 0.4))
